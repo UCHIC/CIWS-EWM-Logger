@@ -1,5 +1,4 @@
 # CIWS-EWM-Logger
-Hardware and software for an electronic output smart water meter datalogger
 
 This repository contains the hardware and software designs for two different configurations of a datalogger for recording water use from water meters with electronic outputs. 
 
