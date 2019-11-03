@@ -1,2 +1,8 @@
 # CIWS-EWM-Logger
 Hardware and software for an electronic output smart water meter datalogger
+
+This repository contains the hardware and software designs for two different configurations of a datalogger for recording water use from water meters with electronic outputs. 
+
+The first configuration was designed to measure the 4-20 mA current loop output of the water meters we are using in Utah State University's campus residential buildings. This design has been applied in most of our applications where there is a single water meter within a residential building with a 4-20 mA output.
+
+The second configuration is equipped to measure multiple electronic inputs for cases where there are multiple water meters and potentially other electronic sensor inputs. For example, we are currently using this in buildings on USU's campus where there are three water meters as well as multiple water temperature sensor inputs. Two of the water meters are 4-20 mA current loop output meters, and the third is a pulsed output meter. 
